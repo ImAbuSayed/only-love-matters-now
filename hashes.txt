@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only Love Matters Now
+
+This log tracks the cryptographic history and versioning for the song **Only Love Matters Now** (only-love-matters-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T16:56:18.705644 | `v1` | `98ff1a01d1f3cfcf9e83c9f20abfacfc1e93ae32c7b72bb44d72c52c9d70227a` | `b73e12f5d1e19e045e39feb03bc81e0b04b42a0fef1c106eb5da22dd5c040ad3` | `2026-05-27_only-love-matters-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

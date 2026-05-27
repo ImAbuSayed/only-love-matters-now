@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-love-matters-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Only Love Matters Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-love-matters-now/) |
+| **Get License** | [Get License For Only Love Matters Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-love-matters-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `98ff1a01d1f3cfcf9e83c9f20abfacfc1e93ae32c7b72bb44d72c52c9d70227a` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
