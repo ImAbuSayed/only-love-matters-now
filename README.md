@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-love-matters-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Only Love Matters Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-love-matters-now/) |
+| **Get License** | [Get a Licensing Quote for Only Love Matters Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-love-matters-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The porch light flickers, the fire is low
+> There’s nowhere else I’d rather go
+> Just trace my hand and pull me in
+> And let this midnight spark begin
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
